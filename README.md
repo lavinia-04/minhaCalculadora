@@ -1,2 +1,3 @@
-# minhaCalculadora
-Esse projeto é uma das calculadoras que eu fiz com HTML,CSS e JS
+#CALCULADORA
+##Apresento minha calculadora simples com HTML,CSS e JavaScript
+![](calculadora.gif)
